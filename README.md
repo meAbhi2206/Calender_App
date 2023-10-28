@@ -12,7 +12,7 @@
 
 The Calendar App is a simple web-based calendar application developed using HTML, CSS, and JavaScript. It provides users with a basic interactive calendar that allows them to view and navigate through different months and years. 
 
-![Calendar Preview](calendar-preview.png)
+![Calendar Preview](Preview.png)
 
 ## Features
 
